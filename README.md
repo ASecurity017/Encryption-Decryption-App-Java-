@@ -33,8 +33,8 @@ algorithms and includes a custom-built key generation system.
 - Demonstrates legacy encryption techniques
 
 ### AES (Advanced Encryption Standard)
-- Strong symmetric encryption
-- Uses randomly generated secret keys and IVs
+- Strong symmetric encryption 
+- Uses randomly generated secret keys (256-bit or 512-bit key) and IVs
 - Suitable for modern secure applications
 
 ---
